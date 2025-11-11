@@ -183,7 +183,7 @@ Class: 633'A'
 
 Project: AI-CHATBOT
 Course: B.Tech CSE
-Submitted To: Prof. Shreya Sharma
+Submitted To: Prof. Shriya Dogra
 
 🏁 Conclusion
 AI-CHATBOT integrates the capabilities of both ChatGPT and Google Gemini into a single, cohesive platform.
